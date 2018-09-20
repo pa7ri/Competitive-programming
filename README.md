@@ -1,4 +1,4 @@
-# Competitive-programing
+# Competitive-programming
 
 > Programming challenges set.
 
