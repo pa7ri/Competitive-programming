@@ -4,6 +4,7 @@
 
 ## UVa problems
 
+- [x] [00489 - Hangman Judge](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=&problem=430&mosmsg=Submission+received+with+ID+22039001)
 - [x] [10038 - Jolly Jumpers](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=12&page=show_problem&problem=979)
 - [ ] [10114 - Loansome Car Buyer](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=13&page=show_problem&problem=1055)
 - [x] [11172 - Relational Operator](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=23&page=show_problem&problem=2113)
