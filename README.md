@@ -4,7 +4,7 @@
 
 ## UVa problems
 
-- [ ] [00272 - TEX Quotes ](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=208)
+- [X] [00272 - TEX Quotes ](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=208)
 - [x] [00489 - Hangman Judge](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=&problem=430)
 - [ ] [00575 - Skew Binary](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=7&page=show_problem&problem=516)
 - [x] [10038 - Jolly Jumpers](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=12&page=show_problem&problem=979)
