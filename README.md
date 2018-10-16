@@ -10,6 +10,7 @@
 - [x] [10038 - Jolly Jumpers](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=12&page=show_problem&problem=979)
 - [ ] [10114 - Loansome Car Buyer](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=13&page=show_problem&problem=1055)
 - [x] [10189 - Minesweeper](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=13&page=show_problem&problem=1130)
+- [x] [10920 - Spiral Tap](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=21&page=show_problem&problem=1861)
 - [x] [11172 - Relational Operator](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=23&page=show_problem&problem=2113)
 - [x] [10226 - Hardwood Species](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=14&page=show_problem&problem=1167)
 - [x] [11340 - Newspaper](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=25&page=show_problem&problem=2315)
